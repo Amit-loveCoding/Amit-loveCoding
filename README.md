@@ -13,12 +13,12 @@ Excited to collaborate on MERN stack projects and real-world problem-solving
 🚀 Tools & Workflow: Git | Postman | WebSockets | Vite
 
 🌐 Explore My Work
-🔗 Portfolio: Amit Kumar Mahto
-🔗 GitHub Repositories: @Amit-loveCoding
+🔗 Portfolio: [Amit Kumar Mahto](https://amit-kumar-mahto-portfolio.netlify.app/)
+🔗 GitHub Repositories: [@Amit-loveCoding](https://github.com/Amit-loveCoding)
 
 🤝 Let's Connect
 📧 Email: amit.mahto3097@outlook.com | amit.mahto3097@gmail.com
-🔗 LinkedIn: Amit Kumar Mahto
+🔗 LinkedIn: [Amit Kumar Mahto](https://www.linkedin.com/in/amit-kumar-mahto-25437a295/)
 
 🎸 Beyond Coding
 🎶 Love playing the guitar | Novelist | Content Writer | Content Creator
